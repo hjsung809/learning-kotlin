@@ -1,4 +1,4 @@
-package one
+package chapters.one
 
 fun test1(flag: Boolean): String {
     if (flag) {

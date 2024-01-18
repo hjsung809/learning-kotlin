@@ -1,4 +1,4 @@
-package two
+package chapters.two
 
 fun main() {
     vararg("first")

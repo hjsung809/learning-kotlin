@@ -1,4 +1,4 @@
-package one
+package chapters.one
 
 fun main() {
     for(a in 1..3)

@@ -1,4 +1,4 @@
-package two
+package chapters.two
 
 class Animal(private var name: String) {
     override fun toString(): String {

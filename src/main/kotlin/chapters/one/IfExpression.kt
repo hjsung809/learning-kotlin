@@ -1,4 +1,4 @@
-package one
+package chapters.one
 
 fun main() {
     val a = 3

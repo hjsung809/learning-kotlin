@@ -1,4 +1,4 @@
-package one
+package chapters.one
 
 
 fun expressBody(x: Double) = x * 2;

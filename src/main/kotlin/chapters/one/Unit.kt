@@ -1,4 +1,4 @@
-package one
+package chapters.one
 
 fun unitFun() {
     println("unitFun")
